@@ -13,5 +13,6 @@ public class Delete {
 		objArray.remove(1);
 		objArray.remove("first");
 		System.out.println("After: "+objArray);
+		
 	}
 }
